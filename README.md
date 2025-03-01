@@ -1,1 +1,12 @@
-# adsps
+# Домашние задания МОАИСа по архитектуре систем хранения и обработки данных за 2 семестр.
+## Архитектура систем хранения и обработки данных</summary>
+  <ul> 
+    <li>Файловая система (<a href='https://github.com/LunisLinus/adsps/blob/main/SSU/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8%20os%2C%20os.path%2C%20shutil.py'>СГУ</a>)</li>
+    <li>Организация поиска (<a href='https://github.com/LunisLinus/adsps/blob/main/SSU/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%20%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%20%D0%B8%20%D0%B2%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D1%85.py'>СГУ</a>)</li>
+    <li>Текстовый формат CSV (<a href='https://github.com/LunisLinus/adsps/blob/main/SSU/%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20CSV.py'>СГУ</a>)</li>
+    <li>Текстовый формат JSON (<a href='https://github.com/LunisLinus/adsps/blob/main/SSU/%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20JSON%201.py'>1 часть, СГУ</a>, <a href='https://github.com/LunisLinus/adsps/blob/main/SSU/%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20JSON%202.py'>2 часть, СГУ</a> (не забудьте скачать <a href='https://github.com/LunisLinus/adsps/blob/main/SSU/constellations_info.json'>файл</a>) и <a href='https://github.com/LunisLinus/adsps/blob/main/Yandex/lms_3.5.md'>Яндекс LMS</a>)</li>
+    <li>Бинарные файлы (<a href='https://github.com/LunisLinus/adsps/blob/main/SSU/%D0%91%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D1%84%D0%B0%D0%B9%D0%BB%D1%8B%201.py'>1 часть, СГУ</a> и <a href='https://github.com/LunisLinus/adsps/blob/main/SSU/%D0%91%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D1%84%D0%B0%D0%B9%D0%BB%D1%8B%202.py'>2 часть, СГУ</a>)</li>
+    <li>Протокол HTTP (<a href='https://github.com/LunisLinus/adsps/blob/main/Yandex/lms_6.3.md'>Яндекс LMS</a>)</li>
+    <li>Использование API (<a href='https://github.com/LunisLinus/adsps/blob/main/SSU/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20API%201.py'>1 часть, СГУ</a>, <a href='https://github.com/LunisLinus/adsps/blob/main/SSU/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20API%201.1.py'>1.1 часть, СГУ</a> и <a href='https://github.com/LunisLinus/adsps/blob/main/SSU/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20API%202.py'>2 часть, СГУ</a>)</li>
+  </ul>
+
