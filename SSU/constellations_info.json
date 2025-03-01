@@ -1,0 +1,92 @@
+[
+    {
+        "latin_name": "Orion",
+        "abbreviation": "Ori",
+        "area": "594 sq. deg.",
+        "brightest_stars": [
+            {
+                "name": "Mintaka",
+                "brightness": "2.25"
+            },
+            {
+                "name": "Bellatrix",
+                "brightness": "1.64"
+            },
+            {
+                "name": "Betelgeuse",
+                "brightness": "0.42"
+            },
+            {
+                "name": "Rigel",
+                "brightness": "0.13"
+            }
+        ],
+        "neighboring_constellations": [
+            "Taurus",
+            "Gemini",
+            "Lepus",
+            "Eridanus",
+            "Monoceros"
+        ]
+    },
+    {
+        "latin_name": "Ursa Major",
+        "abbreviation": "UMa",
+        "area": "1280 sq. deg.",
+        "brightest_stars": [
+            {
+                "name": "Mizar",
+                "brightness": "2.23"
+            },
+            {
+                "name": "Alkaid",
+                "brightness": "1.85"
+            },
+            {
+                "name": "Dubhe",
+                "brightness": "1.81"
+            },
+            {
+                "name": "Alioth",
+                "brightness": "1.76"
+            }
+        ],
+        "neighboring_constellations": [
+            "Leo",
+            "Lynx",
+            "Canes Venatici",
+            "Draco",
+            "Bo\u00f6tes"
+        ]
+    },
+    {
+        "latin_name": "Leo",
+        "abbreviation": "Leo",
+        "area": "947 sq. deg.",
+        "brightest_stars": [
+            {
+                "name": "Algieba",
+                "brightness": "2.61"
+            },
+            {
+                "name": "Zosma",
+                "brightness": "2.56"
+            },
+            {
+                "name": "Denebola",
+                "brightness": "2.14"
+            },
+            {
+                "name": "Regulus",
+                "brightness": "1.35"
+            }
+        ],
+        "neighboring_constellations": [
+            "Virgo",
+            "Ursa Major",
+            "Cancer",
+            "Hydra",
+            "Sextans"
+        ]
+    }
+]
